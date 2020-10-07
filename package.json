@@ -1,0 +1,10 @@
+{
+  "name": "test-hummus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hummus": "^1.0.110",
+    "pdf-lib": "^1.11.1"
+  }
+}
